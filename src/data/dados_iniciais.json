@@ -83,6 +83,10 @@
         {
           "titulo": "Objetos Cortantes",
           "url": "https://www.youtube.com/watch?v=cgFCKy_bUk0"
+        },
+        {
+          "titulo": "Caixa de Pássaros",
+          "url": "https://www.youtube.com/watch?v=nEMOb6dZUuU"
         }
       ]
     },
@@ -90,10 +94,6 @@
       "titulo": "Policial",
       "cor": "orange",
       "videos": [
-        {
-          "titulo": "Feche bem os olhos",
-          "url": "https://www.youtube.com/watch?v=XVS9jkfcpp4"
-        },
         {
           "titulo": "Eu, Alex Cross",
           "url": "https://www.youtube.com/watch?v=CSEYhOY8tRw"
@@ -105,6 +105,14 @@
         {
           "titulo": "Não confie em ninguém",
           "url": "https://www.youtube.com/watch?v=HPmLMI1dSl0"
+        },
+        {
+          "titulo": "Dicas de livros de suspense policial",
+          "url": "https://www.youtube.com/watch?v=HQAz7xVQADc"
+        },
+        {
+          "titulo": "Eu, Alex Cross",
+          "url": "https://www.youtube.com/watch?v=CSEYhOY8tRw"
         }
       ]
     },
